@@ -1,0 +1,8 @@
+# Local-specific files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Local experiments
+private/
